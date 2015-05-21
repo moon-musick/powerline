@@ -1,4 +1,4 @@
-.dotfiles
+Powerline
 =========
 
 Custom themes and colorschemes for Powerline.
